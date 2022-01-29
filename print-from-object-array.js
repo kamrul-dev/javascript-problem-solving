@@ -1,4 +1,4 @@
-// Print value form object array
+// Print value from object array
 
 const pizza = {
     toppings: ['cheese', 'sauce', 'pepperoni'],
