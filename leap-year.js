@@ -11,3 +11,7 @@ function leapYear(year){
 var leap = 2023;
 var isLeapYear = leapYear(leap);
 console.log('Is the year leap year: ',isLeapYear);
+
+var leap1 = 2024;
+var isLeapYear1 = leapYear(leap1);
+console.log('Is the year leap year: ',isLeapYear1);

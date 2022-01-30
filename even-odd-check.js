@@ -1,0 +1,1 @@
+// check given number is even or odd.  if number is even then returns true. if it is odd then returns odd.
